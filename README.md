@@ -5,4 +5,4 @@ This repository contains all of the notes taken by [Anthony](https://github.com/
 
 ### Table of Contents
 * [Week 1](/week_1)  
-  * [Day 1](/day_1)
+  * [Day 1](/week_1/day_1)
